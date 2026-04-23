@@ -23,38 +23,48 @@ Translators can support the project on Weblate here: https://hosted.weblate.org/
 
 <table>
   <tr>
-    <td><img src="./assets/docs/484006651-982ad8f9-10b9-4b00-8557-668a13bec7a1.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006713-520c2f50-58d6-4ca0-8de5-d390b17cc1fd.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006714-2b84df7e-676d-461e-952c-5b693b8746dd.jpeg" width="300"/></td>
+    <td><img src="./assets/docs/home_screen.jpeg" alt="App home screen" width="300"/></td>
+    <td><img src="./assets/docs/hamburger_screen.jpeg" alt="Navigation screen" width="300"/></td>
+    <td><img src="./assets/docs/image_editor_screen.jpeg" alt="Image editor screen" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/docs/484006717-69c02fe1-d4eb-4785-9489-4557f5cef113.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006720-d136d1c2-925b-4a7c-9e2e-921a6427adab.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006722-b02cc29c-a77c-4003-bbdf-19f316b49644.jpeg" width="300"/></td>
+    <td><img src="./assets/docs/image_editor_save_screen.jpeg" alt="Save screen" width="300"/></td>
+    <td><img src="./assets/docs/image_library_screen.jpeg" alt="Image library screen" width="300"/></td>
+    <td><img src="./assets/docs/image_preview_screen.jpeg" alt="Preview screen" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/docs/484006727-2cd1238c-4519-4a95-a08e-2236f471f201.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006731-ed7e198a-6a2f-41d7-a8fe-ea527afcbd5a.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006733-95f2eac1-3eed-43b1-8686-5700342ef9d5.jpeg" width="300"/></td>
+    <td><img src="./assets/docs/image_properties_screen.jpeg" alt="Image properties screen" width="300"/></td>
+    <td><img src="./assets/docs/delete_image_screen.jpeg" alt="Delete image screen" width="300"/></td>
+    <td><img src="./assets/docs/text_editor_screen.jpeg" alt="Text editor screen" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/docs/484006735-b8fb398d-7bc3-4f58-b009-e6db94606d35.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006736-6dafe90a-2dad-4fcb-83df-045dc535a961.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006741-a7f98a75-817b-4167-85ec-5a71e721c7a5.jpeg" width="300"/></td>
+    <td><img src="./assets/docs/create_image_editor_screen.jpeg" alt="Create Image screen" width="300"/></td>
+    <td><img src="./assets/docs/create_image_editor_paint_screen.jpeg" alt="Paint screen" width="300"/></td>
+    <td><img src="./assets/docs/create_image_editor_add_barcode_screen.jpeg" alt="Add barcode screen" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/docs/484006747-e2e46459-8317-4f34-b1ff-882f3daf51b5.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006751-8180f909-8168-4974-b56c-49904a4d2262.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006754-cf181974-eb51-4e86-b04f-8ea6674b46e5.jpeg" width="300"/></td>
+    <td><img src="./assets/docs/create_image_editor_add_image_screen.jpeg" alt="Add image screen" width="300"/></td>
+    <td><img src="./assets/docs/create_image_editor_enter_text_screen.jpeg" alt="Enter text screen" width="300"/></td>
+    <td><img src="./assets/docs/create_image_editor_add_emoji_screen.jpeg" alt="Add emoji screen" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/docs/484006757-2473ebfc-6528-4d86-bfeb-ba7c659febca.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006761-707b29c2-4ff5-4571-8f3c-7be85f2b242e.jpeg" width="300"/></td>
-    <td><img src="./assets/docs/484006766-f1bbf0a6-f79a-4f77-8e12-719901b1081b.jpeg" width="300"/></td>
+    <td><img src="./assets/docs/card_templates_screen.jpeg" alt="Card Templates screen" width="300"/></td>
+    <td><img src="./assets/docs/employee_id_card_screen.jpeg" alt="Employee ID Card screen" width="300"/></td>
+    <td><img src="./assets/docs/price_tag_generator.jpeg" alt="Price Generator screen" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/docs/read_nfc_tag_screen.jpeg" alt="Read NFC tag screen" width="300"/></td>
+    <td><img src="./assets/docs/write_nfc_tag_screen_1.jpeg" alt="Write NFC tag screen" width="300"/></td>
+    <td><img src="./assets/docs/write_nfc_tag_screen_2.jpeg" alt="Write NFC tag screen" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/docs/write_nfc_tag_screen_3.jpeg" alt="Write NFC tag screen" width="300"/></td>
+    <td><img src="./assets/docs/write_nfc_tag_screen_4.jpeg" alt="Write NFC tag screen" width="300"/></td>
+    <td><img src="./assets/docs/arduino_export.jpeg" alt="Arduino Screen" width="300"/></td>
   </tr>
   <tr>
     <td colspan="3">
-      <img src="./assets/docs/final.png" width="900"/>
+      <img src="./assets/docs/final.png" alt="Transfer Image" width="900"/>
     </td>
   </tr>
 </table>
